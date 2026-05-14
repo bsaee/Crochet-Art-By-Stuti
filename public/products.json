@@ -2,7 +2,7 @@
   {
   "id": "tote-bag",
   "name": "Tote Bag",
-  "price": 1200,
+  "price": 1000,
   "categories": ["newly-launched", "bags"],
   "description": "This purple crochet tote bag is made of several square patterns featuring 3D white and yellow flowers. It is finished with matching purple straps and small pearl accents for a charming, handmade look.",
   "size": "30cm x 33cm",
@@ -12,7 +12,7 @@
 {
   "id": "sling-bag",
   "name": "Sling Bag",
-  "price": 550,
+  "price": 500,
   "categories": ["newly-launched", "bags"],
   "description": "This colorful, handmade crochet bag features a beautiful floral sunburst pattern and a secure silver button. It includes a wide, comfortable green strap, making it a perfect bohemian accessory for carrying your daily essentials.",
   "size": "25cm x 15cm",
@@ -22,7 +22,7 @@
 {
   "id": "sunflower-bag",
   "name": "Sunflower Bag",
-  "price": 800,
+  "price": 500,
   "categories": ["newly-launched", "bags"],
   "description": "This handmade crochet bag features a charming peach and white flower design with a thick, matching shoulder strap. It is crafted with textured stitching, creating a soft and playful floral look.",
   "size": "",
@@ -31,8 +31,8 @@
 },
 {
   "id": "rose-bouquet-bag",
-  "name": "Rose Bouquet Bag",
-  "price": 500,
+  "name": "Rose Bouquet Potli Bag",
+  "price": 900,
   "categories": ["bags"],
   "description": "This elegant white crochet bag features a beautiful top border of soft pink roses. A green drawstring with leaf-shaped ends pulls the floral design together for a charming, handmade look.",
   "size": "",
@@ -42,7 +42,7 @@
 {
   "id": "blue-tote-bag",
   "name": "Blue Tote Bag",
-  "price": 450,
+  "price": 550,
   "categories": ["bags"],
   "description": "This blue crochet bag features a classic daisy pattern made from several granny squares. It includes a matching blue shoulder strap and a vibrant floral design with white petals and yellow centers.",
   "size": "25cm x 26cm ",
@@ -52,7 +52,7 @@
 {
   "id": "shoulder-bag",
   "name": "Shoulder Bag",
-  "price": 500,
+  "price": 600,
   "categories": ["bags"],
   "description": "This purple crochet bag is covered in sweet cream-colored hearts made from cozy granny squares. A thick, matching cream strap and border wrap it all together for a super cute and playful look.",
   "size": "20cm x 30cm",
@@ -68,7 +68,7 @@
   "categories": ["hair-accessories"],
   "description": "This delicate crochet gajra features a string of fluffy white blossoms attached to a vibrant green stem. It offers a lovely, everlasting way to add a traditional floral touch to your hair or outfit.",
   "size": "",
-  "images": ["images/hair-accessories/Gajra.jpg"],
+  "images": ["images/hair-accessories/Gajra.jpg", "images/hair-accessories/Gajra worn.png", "images/hair-accessories/Gajra worn 2.png"],
   "createdAt": 1353000000000
 },
 
@@ -79,26 +79,36 @@
   "categories": ["hair-accessories"],
   "description": "This unique gajra features a fun, springy spiral design that twists and curls with every move. Small white blossoms wrap around a flexible green base, creating a lively and modern take on a classic floral accessory",
   "size": "",
-  "images": ["images/hair-accessories/Spiral Gajra.jpg"],
+  "images": ["images/hair-accessories/Spiral Gajra 1.jpg", "images/hair-accessories/Spiral Gajra 2.png", "images/hair-accessories/Spiral Gajra 3.png"],
   "createdAt": 1355000000000
 },
 
 {
   "id": "bow",
   "name": "Bow",
-  "price": 100,
+  "price": 150,
   "categories": ["hair-accessories"],
   "description": "This elegant deep-red crochet hair bow features a beautifully ribbed texture and long, flowing tails for a classic look. It's a simple yet stylish handmade accessory that adds a cozy, charming touch to any hairstyle.",
   "size": "",
-  "images": ["images/hair-accessories/Bow.jpg"],
+  "images": ["images/hair-accessories/Bow 1.jpg", "images/hair-accessories/Bow 2.png"],
   "createdAt": 1400000000000
+},
+{
+  "id": "daisy-flower-hair-tie",
+  "name": "Daisy Flower Hair Tie",
+  "price": "60 per piece",
+  "categories": ["hair-accessories"],
+  "description": "This adorable crochet hair tie features a cheerful daisy flower design with soft, textured petals. It's a sweet and practical accessory that adds a touch of whimsy to any hairstyle.",
+  "size": "",
+  "images": ["images/hair-accessories/daisy 1.png", "images/hair-accessories/daisy 2.png"],
+  "createdAt": 1715000000000
 },
 
 
 {
   "id": "sunflower-keychain",
   "name": "Sunflower Keychain",
-  "price": 70,
+  "price": 80,
   "categories": ["keychains"],
   "description": "Carry a pocketful of sunshine everywhere you go with this vibrant sunflower keychain! Its bright yellow petals and lush green center are hand-crocheted into a burst of energy that’s perfect for making your keys or bag pop with personality.",
   "size": "",
@@ -125,7 +135,16 @@
   "images": ["images/keychains/Heart keychain.jpg"],
   "createdAt": 1359000000000
 },
-
+{
+  "id": "butterfly-keychain",
+  "name": "Butterfly Keychain",
+  "price": 120,
+  "categories": ["keychains"],
+  "description": "This delicate crochet butterfly features soft, textured wings and a charming design that's perfect for adding a touch of whimsy to your keys or bag.",
+  "size": "",
+  "images": ["images/keychains/Butterfly keychain.png"],
+  "createdAt": 1725000000000
+},
 
 {
   "id": "bear-coaster",
@@ -148,8 +167,8 @@
   "createdAt": 1331000000000
 },
 {
-  "id": "crochet-tool-kit",
-  "name": "Crochet Tool Kit",
+  "id": "crochet-tool-kit-cover",
+  "name": "Crochet Tool Kit Cover",
   "price": 150,
   "categories": ["others"],
   "description": "This pale yellow crochet tool case features a pretty white flower on the front. Inside, it has handy pockets and slots to neatly organize your crochet hook, needles, and stitch markers.",
@@ -164,7 +183,7 @@
   "categories": ["others"],
   "description": "This small, handmade crochet pot features a deep brown color and a thick, ribbed texture. Its flared rim and sturdy base make it a charming and durable decorative piece for your home.",
   "size": "",
-  "images": ["images/others/Flower pot 1.jpg", "images/others/Flower pot 2.jpg", "images/others/Flower pot 3.jpg"],
+  "images": ["images/others/Flower pot 1.png", "images/others/Flower pot 2.png", "images/others/Flower pot 3.jpg", "images/others/Flower pot 4.png"],
   "createdAt": 1335000000000
 },
 {
@@ -174,7 +193,7 @@
   "categories": ["others"],
   "description": "This delightful handmade creation features a cluster of vibrant pink crochet roses tucked into a dark, textured pot. Its compact and colorful floral design makes it a perfect little accent piece to brighten up any small space.",
   "size": "",
-  "images": ["images/others/Bouquet coaster with pot 1.jpg", "images/others/Bouquet coaster with pot 2.jpg", "images/others/Bouquet coaster with pot 3.jpg"],
+  "images": ["images/others/Bouquet coaster with pot 1.jpg", "images/others/Bouquet coaster with pot 2.jpg", "images/others/Bouquet coaster with pot 3.jpg", "images/others/Bouquet coaster with pot 4.png", "images/others/Bouquet coaster with pot 5.png"],
   "createdAt": 1343000000000
 },
 {
@@ -194,7 +213,7 @@
   "categories": ["others"],
   "description": "This adorable white crochet coin purse is shaped like a cat with two cute ears and a handy loop for carrying. Its simple, soft design makes it a playful accessory for keeping your small essentials safe.",
   "size": "",
-  "images": ["images/others/Hello Kitty themed coin purse.jpg"],
+  "images": ["images/others/Hello Kitty themed coin purse 1.jpg", "images/others/Hello Kitty themed coin purse 2.png"],
   "createdAt": 1346000000000
 },
 
@@ -223,7 +242,7 @@
 {
   "id": "photoframe",
   "name": "Photoframe",
-  "price": 150,
+  "price": 120,
   "categories": ["others"],
   "description": "Give your favorite snapshots a warm hug with this chunky, cream-colored crochet frame. Its thick, bubbly texture turns any small photo into a cozy centerpiece for your desk or wall.",
   "size": "",
@@ -240,6 +259,16 @@
   "size": "",
   "images": ["images/others/Miffy glasses holder.jpg"],
   "createdAt": 1401000000000
+},
+{
+  "id": "card-holder",
+  "name": "Card Holder",
+  "price": 200,
+  "categories": ["others"],
+  "description": "This cute card holder is made of soft crochet yarn and features a charming design that's perfect for keeping your cards organized.",
+  "size": "",
+  "images": ["images/others/card-holder1.png", "images/others/card-holder2.png"],
+  "createdAt": 1903000000000
 }
 
 ]
