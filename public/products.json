@@ -1,0 +1,245 @@
+[
+  {
+  "id": "tote-bag",
+  "name": "Tote Bag",
+  "price": 1200,
+  "categories": ["newly-launched", "bags"],
+  "description": "This purple crochet tote bag is made of several square patterns featuring 3D white and yellow flowers. It is finished with matching purple straps and small pearl accents for a charming, handmade look.",
+  "size": "30cm x 33cm",
+  "images": ["/images/bags/tote-bag1.jpeg", "/images/bags/tote-bag2.jpeg"],
+  "createdAt": 1145000000000
+},
+{
+  "id": "sling-bag",
+  "name": "Sling Bag",
+  "price": 550,
+  "categories": ["newly-launched", "bags"],
+  "description": "This colorful, handmade crochet bag features a beautiful floral sunburst pattern and a secure silver button. It includes a wide, comfortable green strap, making it a perfect bohemian accessory for carrying your daily essentials.",
+  "size": "25cm x 15cm",
+  "images": ["/images/bags/sling-bag.jpg"],
+  "createdAt": 1145000000000
+},
+{
+  "id": "sunflower-bag",
+  "name": "Sunflower Bag",
+  "price": 800,
+  "categories": ["newly-launched", "bags"],
+  "description": "This handmade crochet bag features a charming peach and white flower design with a thick, matching shoulder strap. It is crafted with textured stitching, creating a soft and playful floral look.",
+  "size": "",
+  "images": ["/images/bags/sunflower bag.jpg"],
+  "createdAt": 1315000000000
+},
+{
+  "id": "rose-bouquet-bag",
+  "name": "Rose Bouquet Bag",
+  "price": 500,
+  "categories": ["bags"],
+  "description": "This elegant white crochet bag features a beautiful top border of soft pink roses. A green drawstring with leaf-shaped ends pulls the floral design together for a charming, handmade look.",
+  "size": "",
+  "images": ["/images/bags/Crochet Bouquet Bag 1.jpg", "/images/bags/Crochet Bouquet Bag 2.jpg", "/images/bags/Crochet Bouquet Bag 3.jpg"],
+  "createdAt": 1338000000000
+},
+{
+  "id": "blue-tote-bag",
+  "name": "Blue Tote Bag",
+  "price": 450,
+  "categories": ["bags"],
+  "description": "This blue crochet bag features a classic daisy pattern made from several granny squares. It includes a matching blue shoulder strap and a vibrant floral design with white petals and yellow centers.",
+  "size": "25cm x 26cm ",
+  "images": ["images/bags/Blue Tote Bag.jpg"],
+  "createdAt": 1339000000000
+},
+{
+  "id": "shoulder-bag",
+  "name": "Shoulder Bag",
+  "price": 500,
+  "categories": ["bags"],
+  "description": "This purple crochet bag is covered in sweet cream-colored hearts made from cozy granny squares. A thick, matching cream strap and border wrap it all together for a super cute and playful look.",
+  "size": "20cm x 30cm",
+  "images": ["images/bags/Shoulder Bag.jpg"],
+  "createdAt": 1341000000000
+},
+
+
+{
+  "id": "gajra",
+  "name": "Gajra",
+  "price": 250,
+  "categories": ["hair-accessories"],
+  "description": "This delicate crochet gajra features a string of fluffy white blossoms attached to a vibrant green stem. It offers a lovely, everlasting way to add a traditional floral touch to your hair or outfit.",
+  "size": "",
+  "images": ["images/hair-accessories/Gajra.jpg"],
+  "createdAt": 1353000000000
+},
+
+{
+  "id": "spiral-gajra",
+  "name": "Spiral Gajra",
+  "price": 150,
+  "categories": ["hair-accessories"],
+  "description": "This unique gajra features a fun, springy spiral design that twists and curls with every move. Small white blossoms wrap around a flexible green base, creating a lively and modern take on a classic floral accessory",
+  "size": "",
+  "images": ["images/hair-accessories/Spiral Gajra.jpg"],
+  "createdAt": 1355000000000
+},
+
+{
+  "id": "bow",
+  "name": "Bow",
+  "price": 100,
+  "categories": ["hair-accessories"],
+  "description": "This elegant deep-red crochet hair bow features a beautifully ribbed texture and long, flowing tails for a classic look. It's a simple yet stylish handmade accessory that adds a cozy, charming touch to any hairstyle.",
+  "size": "",
+  "images": ["images/hair-accessories/Bow.jpg"],
+  "createdAt": 1400000000000
+},
+
+
+{
+  "id": "sunflower-keychain",
+  "name": "Sunflower Keychain",
+  "price": 70,
+  "categories": ["keychains"],
+  "description": "Carry a pocketful of sunshine everywhere you go with this vibrant sunflower keychain! Its bright yellow petals and lush green center are hand-crocheted into a burst of energy that’s perfect for making your keys or bag pop with personality.",
+  "size": "",
+  "images": ["images/keychains/Sunflower keychain.jpg"],
+  "createdAt": 1357000000000
+},
+{
+  "id": "bear-keychain",
+  "name": "Bear Keychain",
+  "price": 70,
+  "categories": ["keychains"],
+  "description": "Say hello to your new favorite adventure buddy! This tiny, fluffy white crochet bear is bursting with personality, complete with two perky ears and a sweet pastel pink bow tied around its neck. It's a super fun and energetic little friend that's ready to swing from your keys or bag and brighten up your whole day!",
+  "size": "",
+  "images": ["images/keychains/Bear keychain.jpg"],
+  "createdAt": 1358000000000
+},
+{
+  "id": "heart-keychain",
+  "name": "Heart Keychain",
+  "price": 80,
+  "categories": ["keychains"],
+  "description": "Spread some love with this puffy pink crochet heart! Soft, textured, and super cute, it’s a sweet little charm perfect for adding a playful touch to your keys or bag.",
+  "size": "",
+  "images": ["images/keychains/Heart keychain.jpg"],
+  "createdAt": 1359000000000
+},
+
+
+{
+  "id": "bear-coaster",
+  "name": "Bear Coaster",
+  "price": 60,
+  "categories": ["others"],
+  "description": "This cream crochet coaster is shaped like a bear's head with two cute, small ears. Its simple spiral design makes it a charming and practical handmade accessory.",
+  "size": "",
+  "images": ["images/others/bear coaster.jpg"],
+  "createdAt": 1327000000000
+},
+{
+  "id": "leaf-themed-coaster",
+  "name": "Leaf Themed Coaster",
+  "price": 70,
+  "categories": ["others"],
+  "description": "This handmade crochet tea coaster features a creamy white center surrounded by a vibrant green leaf border. Its nature-inspired design adds a fresh and cozy touch to any table setting.",
+  "size": "",
+  "images": ["images/others/Leaf themed coaster.jpg"],
+  "createdAt": 1331000000000
+},
+{
+  "id": "crochet-tool-kit",
+  "name": "Crochet Tool Kit",
+  "price": 150,
+  "categories": ["others"],
+  "description": "This pale yellow crochet tool case features a pretty white flower on the front. Inside, it has handy pockets and slots to neatly organize your crochet hook, needles, and stitch markers.",
+  "size": "",
+  "images": ["images/others/Crochet tools kit 1.jpg", "images/others/Crochet tools kit 2.jpg"],
+  "createdAt": 1334000000000
+},
+{
+  "id": "flower-pot",
+  "name": "Flower Pot",
+  "price": 100,
+  "categories": ["others"],
+  "description": "This small, handmade crochet pot features a deep brown color and a thick, ribbed texture. Its flared rim and sturdy base make it a charming and durable decorative piece for your home.",
+  "size": "",
+  "images": ["images/others/Flower pot 1.jpg", "images/others/Flower pot 2.jpg", "images/others/Flower pot 3.jpg"],
+  "createdAt": 1335000000000
+},
+{
+  "id": "bouquet-coaster-with-pot",
+  "name": "Bouquet Coaster With Pot ",
+  "price": 100,
+  "categories": ["others"],
+  "description": "This delightful handmade creation features a cluster of vibrant pink crochet roses tucked into a dark, textured pot. Its compact and colorful floral design makes it a perfect little accent piece to brighten up any small space.",
+  "size": "",
+  "images": ["images/others/Bouquet coaster with pot 1.jpg", "images/others/Bouquet coaster with pot 2.jpg", "images/others/Bouquet coaster with pot 3.jpg"],
+  "createdAt": 1343000000000
+},
+{
+  "id": "airpods-case",
+  "name": "Airpods Case",
+  "price": 80,
+  "categories": ["others"],
+  "description": "This cute purple and white crochet case is designed to look like a tiny backpack for your earphones. It features a sweet white bow on the flap, making it a fun and playful way to keep your tech safe.",
+  "size": "",
+  "images": ["images/others/Airpods Case 1.jpg", "images/others/Airpods Case 2.jpg"],
+  "createdAt": 1344000000000
+},
+{
+  "id": "hello-kitty-themed-coin-purse",
+  "name": "Hello Kitty Themed Coin Purse",
+  "price": 100,
+  "categories": ["others"],
+  "description": "This adorable white crochet coin purse is shaped like a cat with two cute ears and a handy loop for carrying. Its simple, soft design makes it a playful accessory for keeping your small essentials safe.",
+  "size": "",
+  "images": ["images/others/Hello Kitty themed coin purse.jpg"],
+  "createdAt": 1346000000000
+},
+
+ {
+  "id": "drawstring-pouch",
+  "name": "Drawstring Pouch",
+  "price": 60,
+  "categories": ["others"],
+  "description": "This cozy maroon pouch pops with a bright green drawstring for a fun, energetic contrast. Its chunky, textured stitches make it a super cute and playful way to stash your favorite little treasures.",
+  "size": "",
+  "images": ["images/others/Drawstring pouch 1.jpg" , "images/others/Drawstring pouch 2.jpg"],
+  "createdAt": 1350000000000
+},
+
+  {
+  "id": "jewellery-tray",
+  "name": "Jewellery Tray",
+  "price": 60,
+  "categories": ["others"],
+  "description": "This soft crochet jewelry tray features a pastel blend of cream, yellow, and light pink. Its sturdy circular shape and thin matching handle make it a charming, handmade way to keep your accessories organized.",
+  "size": "",
+  "images": ["images/others/Jewellery Tray.jpg"],
+  "createdAt": 1351000000000
+},
+
+{
+  "id": "photoframe",
+  "name": "Photoframe",
+  "price": 150,
+  "categories": ["others"],
+  "description": "Give your favorite snapshots a warm hug with this chunky, cream-colored crochet frame. Its thick, bubbly texture turns any small photo into a cozy centerpiece for your desk or wall.",
+  "size": "",
+  "images": ["images/others/Photoframe.jpg"],
+  "createdAt": 1356000000000
+},
+
+{
+  "id": "miffy-glasses-holder",
+  "name": "Miffy Glasses Holder",
+  "price": 150,
+  "categories": ["others"],
+  "description": "This adorable white crochet glasses holder is shaped like Miffy, featuring her signature tall, rounded ears. Its soft, padded design provides a cozy and playful resting spot to keep your frames safe and scratch-free.",
+  "size": "",
+  "images": ["images/others/Miffy glasses holder.jpg"],
+  "createdAt": 1401000000000
+}
+
+]
