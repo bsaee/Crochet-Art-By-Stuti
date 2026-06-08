@@ -36,7 +36,7 @@
   "categories": ["bags"],
   "description": "This elegant white crochet bag features a beautiful top border of soft pink roses. A green drawstring with leaf-shaped ends pulls the floral design together for a charming, handmade look.",
   "size": "",
-  "images": ["/images/bags/Crochet Bouquet Bag 1.jpg", "/images/bags/Crochet Bouquet Bag 2.jpg", "/images/bags/Crochet Bouquet Bag 3.jpg"],
+  "images": ["/images/bags/Crochet Bouquet Bag 4.png", "/images/bags/Crochet Bouquet Bag 1.jpg", "/images/bags/Crochet Bouquet Bag 2.jpg", "/images/bags/Crochet Bouquet Bag 3.jpg"],
   "createdAt": 1338000000000
 },
 {
@@ -169,7 +169,7 @@
 {
   "id": "sunflower-keychain",
   "name": "Sunflower Keychain",
-  "price": 100,
+  "price": 120,
   "categories": ["keychains"],
   "description": "Carry a pocketful of sunshine everywhere you go with this vibrant sunflower keychain! Its bright yellow petals and lush green center are hand-crocheted into a burst of energy that’s perfect for making your keys or bag pop with personality.",
   "size": "",
