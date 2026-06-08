@@ -184,7 +184,7 @@ export default function App() {
                   </div>
                   <div className="px-2 text-center group-hover:-translate-y-1 transition-transform duration-300">
                     <h3 className="text-2xl font-serif font-semibold text-text-dark mb-1">{product.name}</h3>
-                    <p className="text-pink-deep font-serif text-lg">₹{product.price.toLocaleString('en-IN')}</p>
+                    <p className="text-pink-deep font-serif text-lg font-bold">₹{product.price.toLocaleString('en-IN')}</p>
                   </div>
                 </motion.div>
               ))}

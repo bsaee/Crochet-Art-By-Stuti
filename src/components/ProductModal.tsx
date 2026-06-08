@@ -116,7 +116,7 @@ export default function ProductModal({ product, onClose, whatsappNumber }: Produ
                   {product.name}
                 </h2>
 
-                <p className="text-2xl font-serif text-pink-deep mb-6">
+                <p className="text-2xl font-serif text-pink-deep mb-6 font-bold">
                   ₹{product.price.toLocaleString('en-IN')}
                 </p>
 
