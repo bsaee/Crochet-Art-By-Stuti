@@ -3,7 +3,7 @@
   "id": "tote-bag",
   "name": "Tote Bag",
   "price": 1000,
-  "categories": ["newly-launched", "bags"],
+  "categories": ["bags"],
   "description": "This purple crochet tote bag is made of several square patterns featuring 3D white and yellow flowers. It is finished with matching purple straps and small pearl accents for a charming, handmade look.",
   "size": "30cm x 33cm",
   "images": ["/images/bags/tote-bag1.jpeg", "/images/bags/tote-bag2.jpeg"],
@@ -13,7 +13,7 @@
   "id": "sling-bag",
   "name": "Sling Bag",
   "price": 500,
-  "categories": ["newly-launched", "bags"],
+  "categories": ["bags"],
   "description": "This colorful, handmade crochet bag features a beautiful floral sunburst pattern and a secure silver button. It includes a wide, comfortable green strap, making it a perfect bohemian accessory for carrying your daily essentials.",
   "size": "25cm x 15cm",
   "images": ["/images/bags/sling-bag.jpg"],
@@ -23,7 +23,7 @@
   "id": "sunflower-bag",
   "name": "Sunflower Bag",
   "price": 500,
-  "categories": ["newly-launched", "bags"],
+  "categories": ["bags"],
   "description": "This handmade crochet bag features a charming peach and white flower design with a thick, matching shoulder strap. It is crafted with textured stitching, creating a soft and playful floral look.",
   "size": "",
   "images": ["/images/bags/sunflower bag.jpg"],
@@ -86,17 +86,17 @@
 {
   "id": "bow",
   "name": "Bow",
-  "price": 150,
+  "price": 200,
   "categories": ["hair-accessories"],
   "description": "This elegant deep-red crochet hair bow features a beautifully ribbed texture and long, flowing tails for a classic look. It's a simple yet stylish handmade accessory that adds a cozy, charming touch to any hairstyle.",
   "size": "",
-  "images": ["images/hair-accessories/Bow 1.jpg", "images/hair-accessories/Bow 2.png"],
+  "images": ["images/hair-accessories/Bow 2.png", "images/hair-accessories/Bow 1.jpg"],
   "createdAt": 1400000000000
 },
 {
   "id": "daisy-flower-hair-tie",
   "name": "Daisy Flower Hair Tie",
-  "price": "60 per piece",
+  "price": "80 per piece",
   "categories": ["hair-accessories"],
   "description": "This adorable crochet hair tie features a cheerful daisy flower design with soft, textured petals. It's a sweet and practical accessory that adds a touch of whimsy to any hairstyle.",
   "size": "",
@@ -104,15 +104,76 @@
   "createdAt": 1715000000000
 },
 
+{
+  "id": "mesh-bow",
+  "name": "Mesh Bow",
+  "price": 280,
+  "categories": ["hair-accessories"],
+  "description": "This elegant handmade crochet bow features a beautiful, open mesh stitch in light blue, perfectly framed by a crisp white border. With its long, flowing tails, it adds a whimsical and charming touch to any hairstyle or outfit!",
+  "size": "",
+  "images": ["images/hair-accessories/Mesh bow 1.jpg" , "images/hair-accessories/Mesh bow 2.jpg"],
+  "createdAt": 1725000000000
+},
+{
+  "id": "double-flower-clutch",
+  "name": "Double Flower Clutch",
+  "price": 150,
+  "categories": ["hair-accessories"],
+  "description": "This beautiful handmade hair claw clip features sweet, light blue crochet puff flowers adorned with soft white centers. It is a simple and charming accessory perfect for adding a delicate, floral touch to any half-up hairstyle.",
+  "size": "",
+  "images": ["images/hair-accessories/Double flower clutch 1.jpg", "images/hair-accessories/Double flower clutch 2.jpg"],
+  "createdAt": 1730000000000
+},
+{
+  "id": "scrunchie",
+  "name": "Scrunchie",
+  "price": 100,
+  "categories": ["hair-accessories"],
+  "description": "This lovely handmade crochet scrunchie features a soft pink ruffle design neatly finished with a clean white stitched border. It is a simple and charming accessory perfect for adding a cozy, textured touch to your daily hairstyle!",
+  "size": "",
+  "images": ["images/hair-accessories/Scruchie.jpg"],
+  "createdAt": 1735000000000
+},
+{
+  "id": "rose-hair-tie",
+  "name": "Rose Hair Tie",
+  "price": 250,
+  "categories": ["hair-accessories", "newly-launched"],
+  "description": "This beautiful handmade hair tie features two bright yellow crochet roses dangling from long green stems. Finished with a pair of cute green leaves at the top, it is a simple way to add a sweet floral touch to your hair!",
+  "size": "",
+  "images": ["images/hair-accessories/Rose hair tie.jpg"],
+  "createdAt": 1740000000000
+},
+{
+  "id": "single-flower-clutch",
+  "name": "Single Flower Clutch",
+  "price": 100,
+  "categories": ["hair-accessories"],
+  "description": "This lovely handmade hair claw clip features a sweet, purple crochet puff flower adorned with a soft white center. It is a simple and charming accessory perfect for adding a delicate, colorful touch to any half-up hairstyle.",
+  "size": "",
+  "images": ["images/hair-accessories/Single flower clutch 1.jpg", "images/hair-accessories/Single flower clutch 2.jpg"],
+  "createdAt": 1745000000000
+},
+{
+  "id": "tulip-hair-band",
+  "name": "Tulip Hair Band",
+  "price": 200,
+  "categories": ["hair-accessories"],
+  "description": "This beautiful handmade headband features a row of pale yellow crochet tulips nestled in vibrant green leaves and framed by a clean white border. It is a simple yet charming accessory that adds a fresh, floral touch to any hairstyle!",
+  "size": "",
+  "images": ["images/hair-accessories/Tulip hairband 1.jpg", "images/hair-accessories/Tulip hairband 2.jpg"],
+  "createdAt": 1750000000000
+},
+
 
 {
   "id": "sunflower-keychain",
   "name": "Sunflower Keychain",
-  "price": 80,
+  "price": 100,
   "categories": ["keychains"],
   "description": "Carry a pocketful of sunshine everywhere you go with this vibrant sunflower keychain! Its bright yellow petals and lush green center are hand-crocheted into a burst of energy that’s perfect for making your keys or bag pop with personality.",
   "size": "",
-  "images": ["images/keychains/Sunflower keychain.jpg"],
+  "images": ["images/keychains/Sunflower.png"],
   "createdAt": 1357000000000
 },
 {
@@ -145,6 +206,73 @@
   "images": ["images/keychains/Butterfly keychain.png"],
   "createdAt": 1725000000000
 },
+
+
+{
+  "id": "butterfly",
+  "name": "Purple Butterfly Keychain",
+  "price": 120,
+  "categories": ["keychains"],
+  "description": "This playful handmade crochet butterfly is ready to flutter right into your heart with its lovely purple wings and soft blue and white accents.",
+  "size": "",
+  "images": ["images/keychains/Butterfly.jpg"],
+  "createdAt": 1000
+},
+{
+  "id": "Chicken-Chef",
+  "name": "Chicken Chef Keychain",
+  "price": 200,
+  "categories": ["keychains"],
+  "description": "This adorable handmade crochet chicken chef features a soft yellow body, happy stitched eyes, and a bright orange beak. Dressed for the kitchen, this little chick comes complete with a tiny white apron and a matching chef's hat.",
+  "size": "",
+  "images": ["images/keychains/Chef Chicken.jpg"],
+  "createdAt": 1001
+},
+
+{
+  "id": "ice-cream-cone",
+  "name": "Ice Cream Cone Keychain",
+  "price": 120,
+  "categories": ["keychains"],
+  "description": "This adorable handmade crochet charm features a sweet scoop of purple ice cream with tiny stitched sprinkles. Sitting perfectly on a dark brown cone, it adds a delightfully sweet touch wherever you attach it.",
+  "size": "",
+  "images": ["images/keychains/Icecream.jpg"],
+  "createdAt": 1002
+},
+
+{
+  "id": "penguin",
+  "name": "Penguin Keychain",
+  "price": 200,
+  "categories": ["keychains", "newly-launched"],
+  "description": "This adorable handmade crochet penguin features a round light blue body with a white tummy and tiny wings. Complete with happy squinty eyes and a little yellow beak, it adds a cute touch to your daily essentials.",
+  "size": "",
+  "images": ["images/keychains/Penguin.jpg"],
+  "createdAt": 1003
+},
+
+{
+  "id": "pink-daisy",
+  "name": "Pink Daisy Keychain",
+  "price": 120,
+  "categories": ["keychains"],
+  "description": "This lovely handmade crochet daisy features a vibrant green center surrounded by soft pink petals. Completed with a charming little green leaf attached to the top, it brings a cheerful touch of spring wherever you go.",
+  "size": "",
+  "images": ["images/keychains/Pink flower.jpg"],
+  "createdAt": 1004
+},
+{
+  "id": "mango",
+  "name": "Mango Keychain",
+  "price": 120,
+  "categories": ["keychains", "newly-launched"],
+  "description": "This delightful handmade crochet mango charm features a plump yellow body stitched with a beautiful, bumpy texture. Topped off with a single dark green leaf, it is a simple and sweet accessory that adds a vibrant, tropical pop to your keys or bag!",
+  "size": "",
+  "images": ["images/keychains/Mango.png"],
+  "createdAt": 1005
+},
+
+
 
 {
   "id": "bear-coaster",
@@ -269,6 +397,116 @@
   "size": "",
   "images": ["images/others/card-holder1.png", "images/others/card-holder2.png"],
   "createdAt": 1903000000000
+},
+{
+  "id": "apple-pouch",
+  "name": "Apple Pouch",
+  "price": 200,
+  "categories": ["others"],
+  "description": "This adorable handmade crochet pouch features a clever green apple slice design with a clean white center representing the inside of the fruit. Completed with a small top flap accented by a dark green leaf and brown stem, it is a fun and simple way to store your coins, keys, or small trinkets!",
+  "size": "",
+  "images": ["images/others/Apple pouch.jpg"],
+  "createdAt": 1905000000000
+},
+{
+  "id": "beanie",
+  "name": "Beanie",
+  "price": 700,
+  "categories": ["others"],
+  "description": "This cozy handmade crochet beanie features a clean white ribbed design with a stylish folded brim. When worn, its square top naturally pushes out to form adorable, playful cat ears for a fun and charming look!",
+  "size": "",
+  "images": ["images/others/Beanie 1.jpg", "images/others/beanie 2.jpg"],
+  "createdAt": 1906000000000
+},
+{
+  "id": "camera-pouch",
+  "name": "Camera Pouch",
+  "price": 300,
+  "categories": ["others"],
+  "description": "This charming handmade crochet pouch features a retro camera design in a lovely light blue and cream color scheme. Completed with a stitched circular camera lens and a tiny dark button accent, it is a fun and stylish way to protect your small essentials or instant camera!",
+  "size": "",
+  "images": ["images/others/Camera pouch.jpg"],
+  "createdAt": 1907000000000
+},
+{
+  "id": "charger",
+  "name": "Charger Decor",
+  "price": 150,
+  "categories": ["others"],
+  "description": "This cute handmade crochet set features a pastel yellow ruffled sleeve to dress up your charging adapter. It includes a matching green vine wrap with small leaves to protect your cable with a fun, natural look!",
+  "size": "",
+  "images": ["images/others/Charger.jpg"],
+  "createdAt": 1909000000000
+},
+{
+  "id": "curtain-tieback",
+  "name": "Curtain Tie Back",
+  "price": 350,
+  "categories": ["others", "newly-launched"],
+  "description": "This charming handmade crochet curtain tie back features a large, cheerful sunflower with a detailed textured center and vibrant yellow petals. It is a simple and playful home accessory, perfect for brightening up your windows and holding your curtains back in style!",
+  "size": "",
+  "images": ["images/others/Curtain tie back.jpg"],
+  "createdAt": 1910000000000
+},
+{
+  "id": "Earphones-Case",
+  "name": "Earphones Case",
+  "price": 180,
+  "categories": ["others"],
+  "description": "These charming handmade crochet earphone cases feature a classic granny square design framed by a clean white border and a handy top loop. Available in soft blue, vibrant purple, and sunny yellow, they offer a simple and stylish way to keep your earbuds safely tucked away!",
+  "size": "",
+  "images": ["images/others/Earphone case 1.jpg", "images/others/Earphone case 2.jpg", "images/others/Earphone case 3.jpg", "images/others/Earphone case 4.jpg"],
+  "createdAt": 1911000000000
+},
+{
+  "id": "modak",
+  "name": "Modak",
+  "price": 120,
+  "categories": ["others", "newly-launched"],
+  "description": "This festive handmade crochet modak features a bright yellow modak design accented with a kesar strand on top. Resting beautifully on a stitched green leaf base, it serves as a simple and charming piece perfect for festive celebrations!",
+  "size": "",
+  "images": ["/images/others/Modak.jpg"],
+  "createdAt": 1912000000000
+},
+{
+  "id": "reversible-bouquet-doll",
+  "name": "Reversible Bouquet Doll",
+  "price": 800,
+  "categories": ["others", "newly-launched"],
+  "description": "This charming handmade crochet doll features a yellow dress, dark hair, and a lovely pink flower crown. With its clever reversible design, it can magically flip inside out to transform into a beautiful flower bouquet.",
+  "size": "",
+  "images": ["images/others/Reversible Bouquet Doll 1.jpg", "images/others/Reversible Bouquet Doll 2.jpg"],
+  "createdAt": 1913000000000
+},
+{
+  "id": "wallet",
+  "name": "Wallet",
+  "price": 300,
+  "categories": ["others"],
+  "description": "This charming handmade crochet wallet features a formal design with a stylish folded brim. It has multiple compartments for your cards and cash, making it both functional and cute!",
+  "size": "",
+  "images": ["images/others/Wallet 1.jpg", "images/others/Wallet 2.jpg"],
+  "createdAt": 1914000000000
+},
+{
+  "id": "Bouquet",
+  "name": "Bouquet",
+  "price": 400,
+  "categories": ["others", "newly-launched"],
+  "description": "This beautiful handmade crochet placemat features a large, round purple center woven with a neat spiraling stitch. The edge is beautifully detailed with a continuous border of delicate pink tulips and green leaves, making it a charming and elegant addition to any tabletop!",
+  "size": "",
+  "images": ["images/others/Bouquet 1.jpeg", "images/others/Bouquet 2.jpeg"],
+  "createdAt": 1915000000000
+},
+{
+  "id": "tulip-flower-pot",
+  "name": "Tulip Flower Pot",
+  "price": 350,
+  "categories": ["others"],
+  "description": "This charming handmade crochet tulip flower pot features a beautiful pink tulip design with a green leafy stem. It is a delightful addition to any garden or indoor space!",
+  "size": "",
+  "images": ["images/others/Tulip flower pot.png"],
+  "createdAt": 1916000000000
 }
 
 ]
