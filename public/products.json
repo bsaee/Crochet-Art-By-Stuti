@@ -2,7 +2,7 @@
   {
   "id": "tote-bag",
   "name": "Tote Bag",
-  "price": 1000,
+  "price": 1200,
   "categories": ["bags"],
   "description": "This purple crochet tote bag is made of several square patterns featuring 3D white and yellow flowers. It is finished with matching purple straps and small pearl accents for a charming, handmade look.",
   "size": "30cm x 33cm",
@@ -12,7 +12,7 @@
 {
   "id": "sling-bag",
   "name": "Sling Bag",
-  "price": 500,
+  "price": 600,
   "categories": ["bags"],
   "description": "This colorful, handmade crochet bag features a beautiful floral sunburst pattern and a secure silver button. It includes a wide, comfortable green strap, making it a perfect bohemian accessory for carrying your daily essentials.",
   "size": "25cm x 15cm",
@@ -22,7 +22,7 @@
 {
   "id": "sunflower-bag",
   "name": "Sunflower Bag",
-  "price": 500,
+  "price": 700,
   "categories": ["bags"],
   "description": "This handmade crochet bag features a charming peach and white flower design with a thick, matching shoulder strap. It is crafted with textured stitching, creating a soft and playful floral look.",
   "size": "",
@@ -32,7 +32,7 @@
 {
   "id": "rose-bouquet-bag",
   "name": "Rose Bouquet Potli Bag",
-  "price": 900,
+  "price": 1000,
   "categories": ["bags"],
   "description": "This elegant white crochet bag features a beautiful top border of soft pink roses. A green drawstring with leaf-shaped ends pulls the floral design together for a charming, handmade look.",
   "size": "",
@@ -52,14 +52,31 @@
 {
   "id": "shoulder-bag",
   "name": "Shoulder Bag",
-  "price": 600,
+  "price": 750,
   "categories": ["bags"],
   "description": "This purple crochet bag is covered in sweet cream-colored hearts made from cozy granny squares. A thick, matching cream strap and border wrap it all together for a super cute and playful look.",
   "size": "20cm x 30cm",
   "images": ["images/bags/Shoulder Bag.jpg"],
   "createdAt": 1341000000000
 },
-
+{
+  "id": "coquette-bag",
+  "name": "Coquette Tote Bag",
+  "price": 1100,
+  "categories": ["bags", "newly-launched"],
+  "description": "This tote bag in features a classic white and pastel blue granny square design, perfect for effortless everyday style.",
+  "images": ["images/bags/coquette tote bag 1.png", "images/bags/coquette tote bag 2.png"],
+  "createdAt": 2017000000000
+},
+{
+  "id": "daisy-sling-bag",
+  "name": "Daisy Sling Bag",
+  "price": 850,
+  "categories": ["bags", "newly-launched"],
+  "description": "Brighten up any outfit with this adorable daisy crochet bag, featuring vibrant petals and a long green shoulder strap.",
+  "images": ["images/bags/daisy bag 1.png", "images/bags/daisy bag 2.png"],
+  "createdAt": 2018000000000
+},
 
 {
   "id": "gajra",
@@ -86,7 +103,7 @@
 {
   "id": "bow",
   "name": "Bow",
-  "price": 200,
+  "price": 250,
   "categories": ["hair-accessories"],
   "description": "This elegant deep-red crochet hair bow features a beautifully ribbed texture and long, flowing tails for a classic look. It's a simple yet stylish handmade accessory that adds a cozy, charming touch to any hairstyle.",
   "size": "",
