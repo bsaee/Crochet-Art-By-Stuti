@@ -569,7 +569,7 @@
 {
   "id": "cake",
   "name": "Cake",
-  "price": 1200,
+  "price": 650,
   "categories": ["others", "newly-launched"],
   "description": "A charming, two-tiered keepsake cake crafted in soft lavender crochet with fluffy cream piping and pearl accents.",
   "size": "",
@@ -579,7 +579,7 @@
 {
   "id": "bunny-plushie",
   "name": "Bunny Plushie",
-  "price": 1200,
+  "price": 850,
   "categories": ["others", "newly-launched"],
   "description": "An ultra-soft, floppy-eared bunny dressed in sweet pink overalls with a matching strawberry hat and crossbody pouch.",
   "size": "",
@@ -589,7 +589,7 @@
 {
   "id": "Tortoise-plushie",
   "name": "Tortoise Plushie",
-  "price": 1200,
+  "price": 850,
   "categories": ["others", "newly-launched"],
   "description": "A cuddly, palm-sized turtle handmade from plush chenille yarn with a soft peach shell and creamy white flippers.",
   "size": "",
