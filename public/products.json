@@ -63,7 +63,7 @@
   "id": "coquette-bag",
   "name": "Coquette Tote Bag",
   "price": 1100,
-  "categories": ["bags", "newly-launched"],
+  "categories": ["bags"],
   "description": "This tote bag in features a classic white and pastel blue granny square design, perfect for effortless everyday style.",
   "images": ["images/bags/coquette tote bag 1.png", "images/bags/coquette tote bag 2.png"],
   "createdAt": 2017000000000
@@ -72,9 +72,49 @@
   "id": "daisy-sling-bag",
   "name": "Daisy Sling Bag",
   "price": 850,
-  "categories": ["bags", "newly-launched"],
+  "categories": ["bags"],
   "description": "Brighten up any outfit with this adorable daisy crochet bag, featuring vibrant petals and a long green shoulder strap.",
   "images": ["images/bags/daisy bag 1.png", "images/bags/daisy bag 2.png"],
+  "createdAt": 2018000000000
+},
+
+{
+  "id": "Rose-Bag",
+  "name": "Rose Bag",
+  "price": 1400,
+  "categories": ["bags", "newly-launched"],
+  "description": "A bold statement of handcrafted beauty, featuring a textured rosette design and a delicate pearl strap.",
+  "images": ["images/bags/rose bag 1.png", "images/bags/rose bag 2.png"],
+  "createdAt": 2018000000000
+},
+
+{
+  "id": "half-sunflower-bag",
+  "name": "Half Sunflower Bag",
+  "price": 800,
+  "categories": ["bags", "newly-launched"],
+  "description": "A cheerful, sunshine-ready pouch featuring a vibrant blooming sunflower flap and a leafy green strap.",
+  "images": ["images/bags/half sunflower bag 1.png", "images/bags/half sunflower bag 2.png"],
+  "createdAt": 2018000000000
+},
+
+{
+  "id": "star-bag",
+  "name": "Star Bag",
+  "price": 850,
+  "categories": ["bags", "newly-launched"],
+  "description": "A whimsical, multi-colored star-shaped crossbody bag with soft teal and white gradients and a playful two-tone strap.",
+  "images": ["images/bags/star bag.png"],
+  "createdAt": 2018000000000
+},
+
+{
+  "id": "waffle-bag",
+  "name": "Waffle Bag",
+  "price": 1200,
+  "categories": ["bags", "newly-launched"],
+  "description": "A classic rectangular tote with an intricate waffle-stitch pattern and a sleek, functional zipper.",
+  "images": ["images/bags/waffle bag.png"],
   "createdAt": 2018000000000
 },
 
@@ -155,7 +195,7 @@
   "id": "rose-hair-tie",
   "name": "Rose Hair Tie",
   "price": 250,
-  "categories": ["hair-accessories", "newly-launched"],
+  "categories": ["hair-accessories"],
   "description": "This beautiful handmade hair tie features two bright yellow crochet roses dangling from long green stems. Finished with a pair of cute green leaves at the top, it is a simple way to add a sweet floral touch to your hair!",
   "size": "",
   "images": ["images/hair-accessories/Rose hair tie.jpg"],
@@ -261,7 +301,7 @@
   "id": "penguin",
   "name": "Penguin Keychain",
   "price": 200,
-  "categories": ["keychains", "newly-launched"],
+  "categories": ["keychains"],
   "description": "This adorable handmade crochet penguin features a round light blue body with a white tummy and tiny wings. Complete with happy squinty eyes and a little yellow beak, it adds a cute touch to your daily essentials.",
   "size": "",
   "images": ["images/keychains/Penguin.jpg"],
@@ -282,7 +322,7 @@
   "id": "mango",
   "name": "Mango Keychain",
   "price": 120,
-  "categories": ["keychains", "newly-launched"],
+  "categories": ["keychains"],
   "description": "This delightful handmade crochet mango charm features a plump yellow body stitched with a beautiful, bumpy texture. Topped off with a single dark green leaf, it is a simple and sweet accessory that adds a vibrant, tropical pop to your keys or bag!",
   "size": "",
   "images": ["images/keychains/Mango.png"],
@@ -459,7 +499,7 @@
   "id": "curtain-tieback",
   "name": "Curtain Tie Back",
   "price": 350,
-  "categories": ["others", "newly-launched"],
+  "categories": ["others"],
   "description": "This charming handmade crochet curtain tie back features a large, cheerful sunflower with a detailed textured center and vibrant yellow petals. It is a simple and playful home accessory, perfect for brightening up your windows and holding your curtains back in style!",
   "size": "",
   "images": ["images/others/Curtain tie back.jpg"],
@@ -479,7 +519,7 @@
   "id": "modak",
   "name": "Modak",
   "price": 120,
-  "categories": ["others", "newly-launched"],
+  "categories": ["others"],
   "description": "This festive handmade crochet modak features a bright yellow modak design accented with a kesar strand on top. Resting beautifully on a stitched green leaf base, it serves as a simple and charming piece perfect for festive celebrations!",
   "size": "",
   "images": ["/images/others/Modak.jpg"],
@@ -489,7 +529,7 @@
   "id": "reversible-bouquet-doll",
   "name": "Reversible Bouquet Doll",
   "price": 800,
-  "categories": ["others", "newly-launched"],
+  "categories": ["others"],
   "description": "This charming handmade crochet doll features a yellow dress, dark hair, and a lovely pink flower crown. With its clever reversible design, it can magically flip inside out to transform into a beautiful flower bouquet.",
   "size": "",
   "images": ["images/others/Reversible Bouquet Doll 1.jpg", "images/others/Reversible Bouquet Doll 2.jpg"],
@@ -509,7 +549,7 @@
   "id": "Bouquet",
   "name": "Bouquet",
   "price": 1200,
-  "categories": ["others", "newly-launched"],
+  "categories": ["others"],
   "description": "This beautiful handmade crochet placemat features a large, round purple center woven with a neat spiraling stitch. The edge is beautifully detailed with a continuous border of delicate pink tulips and green leaves, making it a charming and elegant addition to any tabletop!",
   "size": "",
   "images": ["images/others/Bouquet 1.jpeg", "images/others/Bouquet 2.jpeg"],
@@ -524,6 +564,37 @@
   "size": "",
   "images": ["images/others/Tulip flower pot.png"],
   "createdAt": 1916000000000
+},
+
+{
+  "id": "cake",
+  "name": "Cake",
+  "price": 1200,
+  "categories": ["others", "newly-launched"],
+  "description": "A charming, two-tiered keepsake cake crafted in soft lavender crochet with fluffy cream piping and pearl accents.",
+  "size": "",
+  "images": ["images/others/cake 1.png", "images/others/cake 2.png"],
+  "createdAt": 1915000000000
+},
+{
+  "id": "bunny-plushie",
+  "name": "Bunny Plishie",
+  "price": 1200,
+  "categories": ["others", "newly-launched"],
+  "description": "An ultra-soft, floppy-eared bunny dressed in sweet pink overalls with a matching strawberry hat and crossbody pouch.",
+  "size": "",
+  "images": ["images/others/bunny plushie.png"],
+  "createdAt": 1915000000000
+},
+{
+  "id": "Tortoise-plushie",
+  "name": "Tortoise Plushie",
+  "price": 1200,
+  "categories": ["others", "newly-launched"],
+  "description": "A cuddly, palm-sized turtle handmade from plush chenille yarn with a soft peach shell and creamy white flippers.",
+  "size": "",
+  "images": ["images/others/tortoise plushie 1.png", "images/others/tortoise plushie 2.png"],
+  "createdAt": 1915000000000
 }
 
 ]
