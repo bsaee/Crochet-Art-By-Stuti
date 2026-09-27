@@ -82,7 +82,7 @@
   "id": "Rose-Bag",
   "name": "Rose Bag",
   "price": 1400,
-  "categories": ["bags", "newly-launched"],
+  "categories": ["bags"],
   "description": "A bold statement of handcrafted beauty, featuring a textured rosette design and a delicate pearl strap.",
   "images": ["images/bags/rose bag 1.png", "images/bags/rose bag 2.png"],
   "createdAt": 2018000000000
@@ -92,7 +92,7 @@
   "id": "half-sunflower-bag",
   "name": "Half Sunflower Bag",
   "price": 800,
-  "categories": ["bags", "newly-launched"],
+  "categories": ["bags"],
   "description": "A cheerful, sunshine-ready pouch featuring a vibrant blooming sunflower flap and a leafy green strap.",
   "images": ["images/bags/half sunflower bag 1.png", "images/bags/half sunflower bag 2.png"],
   "createdAt": 2018000000000
@@ -102,7 +102,7 @@
   "id": "star-bag",
   "name": "Star Bag",
   "price": 850,
-  "categories": ["bags", "newly-launched"],
+  "categories": ["bags"],
   "description": "A whimsical, multi-colored star-shaped crossbody bag with soft teal and white gradients and a playful two-tone strap.",
   "images": ["images/bags/star bag.png"],
   "createdAt": 2018000000000
@@ -112,10 +112,30 @@
   "id": "waffle-bag",
   "name": "Waffle Bag",
   "price": 1200,
-  "categories": ["bags", "newly-launched"],
+  "categories": ["bags"],
   "description": "A classic rectangular tote with an intricate waffle-stitch pattern and a sleek, functional zipper.",
   "images": ["images/bags/waffle bag.png"],
   "createdAt": 2018000000000
+},
+
+{
+  "id": "Mesh Phone Sling Bag",
+  "name": "Mesh Phone Sling Bag",
+  "price": 450,
+  "categories": ["bags", "newly-launched"],
+  "description": "A stylish sling bag perfect for carrying your phone and essentials.",
+  "images": ["images/bags/Mesh Phone Sling Bag.png"],
+  "createdAt": 2050000000000
+},
+
+{
+  "id": "retro-daisy-granny-square-bag",
+  "name": "Retro Daisy Granny Square Bag",
+  "price": 1750,
+  "categories": ["bags", "newly-launched"],
+  "description": "A vibrant and sturdy bag crocheted using cotton yarn, featuring classic daisy granny squares and a retro-inspired design.",
+  "images": ["images/bags/Retro Daisy Granny Square Bag.jpg"],
+  "createdAt": 2050000000000
 },
 
 {
@@ -222,6 +242,15 @@
   "createdAt": 1750000000000
 },
 
+{
+  "id": "rose",
+  "name": "Rose",
+  "price": 200,
+  "categories": ["hair-accessories", "keychains", "newly-launched"],
+  "description": "A multipurpose rose that can be used as a charming hair clip or a cute keychain.",
+  "images": ["images/hair-accessories/Rose 1.jpg", "images/hair-accessories/Rose 2.jpg"],
+  "createdAt": 2050000000000
+},
 
 {
   "id": "sunflower-keychain",
@@ -329,7 +358,15 @@
   "createdAt": 1005
 },
 
-
+{
+  "id": "afghan-flower-keychain",
+  "name": "Afghan Flower Keychain",
+  "price": 200,
+  "categories": ["keychains", "newly-launched"],
+  "description": "A stuffed flower keychain that adds a colorful touch to your keys or bag.",
+  "images": ["images/keychains/Afghan flower keychain.jpg"],
+  "createdAt": 2050000000000
+},
 
 {
   "id": "bear-coaster",
@@ -570,7 +607,7 @@
   "id": "cake",
   "name": "Cake",
   "price": 650,
-  "categories": ["others", "newly-launched"],
+  "categories": ["others"],
   "description": "A charming, two-tiered keepsake cake crafted in soft lavender crochet with fluffy cream piping and pearl accents.",
   "size": "",
   "images": ["images/others/cake 1.png", "images/others/cake 2.png"],
@@ -580,7 +617,7 @@
   "id": "bunny-plushie",
   "name": "Bunny Plushie",
   "price": 850,
-  "categories": ["others", "newly-launched"],
+  "categories": ["others"],
   "description": "An ultra-soft, floppy-eared bunny dressed in sweet pink overalls with a matching strawberry hat and crossbody pouch.",
   "size": "",
   "images": ["images/others/bunny plushie.png"],
@@ -590,11 +627,51 @@
   "id": "Tortoise-plushie",
   "name": "Tortoise Plushie",
   "price": 850,
-  "categories": ["others", "newly-launched"],
+  "categories": ["others"],
   "description": "A cuddly, palm-sized turtle handmade from plush chenille yarn with a soft peach shell and creamy white flippers.",
   "size": "",
   "images": ["images/others/tortoise plushie 1.png", "images/others/tortoise plushie 2.png"],
   "createdAt": 1915000000000
+},
+
+{
+  "id": "mikasa-scarf",
+  "name": "Mikasa Scarf",
+  "price": 800,
+  "categories": ["others", "newly-launched"],
+  "description": "A cozy scarf with a classic ribbed texture and stylish fringed ends.",
+  "images": ["images/others/Mikasa Scarf.jpg"],
+  "createdAt": 2050000000000
+},
+
+{
+  "id": "hanging-octopus-decor",
+  "name": "Hanging Octopus Décor",
+  "price": 400,
+  "categories": ["others", "newly-launched"],
+  "description": "A quirky hanging octopus decor with playful tentacles.",
+  "images": ["images/others/Octopus 1.jpg", "images/others/Octopus 2.jpg"],
+  "createdAt": 2050000000000
+},
+
+{
+  "id": "pineapple",
+  "name": "Pineapple",
+  "price": 300,
+  "categories": ["others", "newly-launched"],
+  "description": "A charming pineapple, perfect as a cute decorative piece or gift.",
+  "images": ["images/others/Pineapple.jpg"],
+  "createdAt": 2050000000000
+},
+
+{
+  "id": "spectacles-holder",
+  "name": "Spectacles Holder",
+  "price": 450,
+  "categories": ["others", "newly-launched"],
+  "description": "A cute spectacles holder featuring an adorable frog-inspired design to keep your glasses safe and stylish.",
+  "images": ["images/others/Spectacles Holder 1.jpg", "images/others/Spectacles Holder 2.jpg"],
+  "createdAt": 2050000000000
 }
 
 ]
