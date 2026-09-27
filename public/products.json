@@ -672,6 +672,16 @@
   "description": "A cute spectacles holder featuring an adorable frog-inspired design to keep your glasses safe and stylish.",
   "images": ["images/others/Spectacles Holder 1.jpg", "images/others/Spectacles Holder 2.jpg"],
   "createdAt": 2050000000000
+},
+
+{
+  "id": "travel-pouch",
+  "name": "Travel Pouch",
+  "price": 350,
+  "categories": ["others", "newly-launched"],
+  "description": "A practically sized pouch, perfect for organizing your travel essentials",
+  "images": ["images/others/Travel Pouch 1.jpg", "images/others/Travel Pouch 2.jpg"],
+  "createdAt": 2050000000000
 }
 
 ]
