@@ -2,7 +2,7 @@
   {
   "id": "tote-bag",
   "name": "Tote Bag",
-  "price": 1200,
+  "price": 1500,
   "categories": ["bags"],
   "description": "This purple crochet tote bag is made of several square patterns featuring 3D white and yellow flowers. It is finished with matching purple straps and small pearl accents for a charming, handmade look.",
   "size": "30cm x 33cm",
@@ -122,21 +122,42 @@
   "id": "Mesh Phone Sling Bag",
   "name": "Mesh Phone Sling Bag",
   "price": 450,
-  "categories": ["bags", "newly-launched"],
+  "categories": ["bags"],
   "description": "A stylish sling bag perfect for carrying your phone and essentials.",
   "images": ["images/bags/Mesh Phone Sling Bag.png"],
-  "createdAt": 2050000000000
+  "createdAt": 1650000000000
 },
 
 {
   "id": "retro-daisy-granny-square-bag",
   "name": "Retro Daisy Granny Square Bag",
-  "price": 1750,
-  "categories": ["bags", "newly-launched"],
+  "price": 2100,
+  "categories": ["bags"],
   "description": "A vibrant and sturdy bag crocheted using cotton yarn, featuring classic daisy granny squares and a retro-inspired design.",
   "images": ["images/bags/Retro Daisy Granny Square Bag.jpg"],
   "createdAt": 2050000000000
 },
+
+{
+  "id": "lotus-bag",
+  "name": "Lotus Bag",
+  "price": 1000,
+  "categories": ["bags", "newly-launched"],
+  "description": "A stunning, lotus bloom crossbody finished with an elegant pearl strap.",
+  "images": ["images/bags/Lotus Bag 1.jpg", "images/bags/Lotus Bag 2.jpg"],
+  "createdAt": 2050000000000
+},
+
+{
+  "id": "cross-body-bag",
+  "name": "Cross Body Bag",
+  "price": 1350,
+  "categories": ["bags", "newly-launched"],
+  "description": "A charming everyday bag crafted from textured pink flower granny squares with a sturdy rose-pink strap.",
+  "images": ["images/bags/Cross Body Bag.jpg"],
+  "createdAt": 2050000000000
+},
+
 
 {
   "id": "gajra",
@@ -246,7 +267,7 @@
   "id": "rose",
   "name": "Rose",
   "price": 200,
-  "categories": ["hair-accessories", "keychains", "newly-launched"],
+  "categories": ["hair-accessories", "keychains"],
   "description": "A multipurpose rose that can be used as a charming hair clip or a cute keychain.",
   "images": ["images/hair-accessories/Rose 1.jpg", "images/hair-accessories/Rose 2.jpg"],
   "createdAt": 2050000000000
@@ -362,7 +383,7 @@
   "id": "afghan-flower-keychain",
   "name": "Afghan Flower Keychain",
   "price": 200,
-  "categories": ["keychains", "newly-launched"],
+  "categories": ["keychains"],
   "description": "A stuffed flower keychain that adds a colorful touch to your keys or bag.",
   "images": ["images/keychains/Afghan flower keychain.jpg"],
   "createdAt": 2050000000000
@@ -638,7 +659,7 @@
   "id": "mikasa-scarf",
   "name": "Mikasa Scarf",
   "price": 800,
-  "categories": ["others", "newly-launched"],
+  "categories": ["others"],
   "description": "A cozy scarf with a classic ribbed texture and stylish fringed ends.",
   "images": ["images/others/Mikasa Scarf.jpg"],
   "createdAt": 2050000000000
@@ -648,7 +669,7 @@
   "id": "hanging-octopus-decor",
   "name": "Hanging Octopus Décor",
   "price": 400,
-  "categories": ["others", "newly-launched"],
+  "categories": ["others"],
   "description": "A quirky hanging octopus decor with playful tentacles.",
   "images": ["images/others/Octopus 1.jpg", "images/others/Octopus 2.jpg"],
   "createdAt": 2050000000000
@@ -658,7 +679,7 @@
   "id": "pineapple",
   "name": "Pineapple",
   "price": 300,
-  "categories": ["others", "newly-launched"],
+  "categories": ["others"],
   "description": "A charming pineapple, perfect as a cute decorative piece or gift.",
   "images": ["images/others/Pineapple.jpg"],
   "createdAt": 2050000000000
@@ -668,7 +689,7 @@
   "id": "spectacles-holder",
   "name": "Spectacles Holder",
   "price": 450,
-  "categories": ["others", "newly-launched"],
+  "categories": ["others"],
   "description": "A cute spectacles holder featuring an adorable frog-inspired design to keep your glasses safe and stylish.",
   "images": ["images/others/Spectacles Holder 1.jpg", "images/others/Spectacles Holder 2.jpg"],
   "createdAt": 2050000000000
@@ -678,9 +699,19 @@
   "id": "travel-pouch",
   "name": "Travel Pouch",
   "price": 350,
-  "categories": ["others", "newly-launched"],
+  "categories": ["others"],
   "description": "A practically sized pouch, perfect for organizing your travel essentials",
   "images": ["images/others/Travel Pouch 1.jpg", "images/others/Travel Pouch 2.jpg"],
+  "createdAt": 2050000000000
+},
+
+{
+  "id": "tulip-coaster",
+  "name": "Tulip Coaster",
+  "price": 80,
+  "categories": ["others", "newly-launched"],
+  "description": "A beautiful tulip-shaped coaster, perfect for adding a touch of elegance to your table.",
+  "images": ["images/others/Tulip Coaster.jpg"],
   "createdAt": 2050000000000
 }
 
