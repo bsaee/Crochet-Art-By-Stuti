@@ -274,6 +274,16 @@
 },
 
 {
+  "id": "cherry-hair-tie",
+  "name": "Cherry Hair Tie",
+  "price": 220,
+  "categories": ["hair-accessories", "newly-launched"],
+  "description": "This beautiful handmade hair tie features a vibrant red cherry, perfect for adding a touch of whimsy to your hairstyle.",
+  "images": ["images/hair-accessories/Cherry hair tie.jpg"],
+  "createdAt": 20510000000000
+},
+
+{
   "id": "sunflower-keychain",
   "name": "Sunflower Keychain",
   "price": 120,
@@ -387,6 +397,46 @@
   "description": "A stuffed flower keychain that adds a colorful touch to your keys or bag.",
   "images": ["images/keychains/Afghan flower keychain.jpg"],
   "createdAt": 2050000000000
+},
+
+{
+  "id": "christmas-tree-keychain",
+  "name": "Christmas Tree Keychain",
+  "price": 100,
+  "categories": ["keychains", "newly-launched"],
+  "description": "A festive keychain featuring a charming, colorful Christmas tree.",
+  "images": ["images/keychains/christmas tree.jpg"],
+  "createdAt": 2051000000000
+},
+
+{
+  "id": "mittens-keychain",
+  "name": "Mittens Keychain",
+  "price": 100,
+  "categories": ["keychains", "newly-launched"],
+  "description": "A cozy keychain featuring a cute, warm mitten.",
+  "images": ["images/keychains/mittens.jpg"],
+  "createdAt": 2051000000000
+},
+
+{
+  "id": "santa-hat-keychain",
+  "name": "Santa Hat Keychain",
+  "price": 100,
+  "categories": ["keychains", "newly-launched"],
+  "description": "A festive keychain featuring a cute, red Santa hat.",
+  "images": ["images/keychains/santa hat.jpg"],
+  "createdAt": 2051000000000
+},
+
+{
+  "id": "snowman-keychain",
+  "name": "Snowman Keychain",
+  "price": 250,
+  "categories": ["keychains", "newly-launched"],
+  "description": "A festive keychain featuring a smiling snowman with a hat and muffler.",
+  "images": ["images/keychains/snowman.jpg"],
+  "createdAt": 2051000000000
 },
 
 {
@@ -713,6 +763,16 @@
   "description": "A beautiful tulip-shaped coaster, perfect for adding a touch of elegance to your table.",
   "images": ["images/others/Tulip Coaster.jpg"],
   "createdAt": 2050000000000
+},
+
+{
+  "id": "cherry-charm",
+  "name": "Cherry Charm",
+  "price": 220,
+  "categories": ["others", "newly-launched"],
+  "description": "A delightful cherry charm, perfect for adding a touch of sweetness to your accessories.",
+  "images": ["images/others/Cherry Charm.jpg"],
+  "createdAt": 2051000000000
 }
 
 ]
