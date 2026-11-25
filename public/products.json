@@ -773,6 +773,16 @@
   "description": "A delightful cherry charm, perfect for adding a touch of sweetness to your accessories.",
   "images": ["images/others/Cherry Charm.jpg"],
   "createdAt": 2051000000000
+},
+
+{
+  "id": "phone-cover",
+  "name": "Phone Cover",
+  "price": 400,
+  "categories": ["others", "newly-launched"],
+  "description": "A cute phone cover with a bow, perfect for protecting your device in style.",
+  "images": ["images/others/Phone cover.jpeg"],
+  "createdAt": 2052000000000
 }
 
 ]
