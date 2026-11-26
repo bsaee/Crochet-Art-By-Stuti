@@ -556,7 +556,7 @@
 {
   "id": "card-holder",
   "name": "Card Holder",
-  "price": 200,
+  "price": 250,
   "categories": ["others"],
   "description": "This cute card holder is made of soft crochet yarn and features a charming design that's perfect for keeping your cards organized.",
   "size": "",
@@ -783,6 +783,37 @@
   "description": "A cute phone cover with a bow, perfect for protecting your device in style.",
   "images": ["images/others/Phone cover.jpeg"],
   "createdAt": 2052000000000
+},
+
+{
+  "id": "checkered-wallet",
+  "name": "Checkered Wallet",
+  "price": 250,
+  "categories": ["others", "newly-launched"],
+  "description": "A stylish checkered wallet, perfect for keeping your essentials organized and looking great.",
+  "images": ["images/others/checkered wallet 1.jpg", "images/others/checkered wallet 2.jpg"],
+  "createdAt": 2053000000000
+},
+
+{
+  "id": "button-tray",
+  "name": "Button-Themed Tray",
+  "price": 300,
+  "categories": ["others", "newly-launched"],
+  "description": "A cute button themed tray, perfect for keeping your jewellery organized.",
+  "images": ["images/others/Button Tray.jpg"],
+
+  "createdAt": 2053000000000
+},
+
+{
+  "id": "tulip-flower",
+  "name": "Tulip Flower",
+  "price": 200,
+  "categories": ["others", "newly-launched"],
+  "description": "A beautiful tulip flower, perfect for adding a touch of elegance to your home decor.",
+  "images": ["images/others/Tulip.jpg"],
+  "createdAt": 2053000000000
 }
 
 ]
