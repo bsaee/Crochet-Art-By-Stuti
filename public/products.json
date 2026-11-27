@@ -278,9 +278,39 @@
   "name": "Cherry Hair Tie",
   "price": 220,
   "categories": ["hair-accessories", "newly-launched"],
-  "description": "This beautiful handmade hair tie features a vibrant red cherry, perfect for adding a touch of whimsy to your hairstyle.",
+  "description": "This beautiful hair tie features a vibrant red cherry, perfect for adding a touch of whimsy to your hairstyle.",
   "images": ["images/hair-accessories/Cherry hair tie.jpg"],
   "createdAt": 20510000000000
+},
+
+{
+  "id": "tulip-hair-tie",
+  "name": "Tulip Hair Tie",
+  "price": 230,
+  "categories": ["hair-accessories", "newly-launched"],
+  "description": "This beautiful hair tie features a delicate tulip, perfect for adding a touch of elegance to your hairstyle.",
+  "images": ["images/hair-accessories/Tulip hair tie.jpg"],
+  "createdAt": 2054000000000
+},
+
+{
+  "id": "lotus-clip",
+  "name": "Lotus Clip",
+  "price": 225,
+  "categories": ["hair-accessories", "newly-launched"],
+  "description": "This beautiful hair clip features a lotus flower, perfect for adding a touch of elegance to your hairstyle.",
+  "images": ["images/hair-accessories/Lotus clip.jpg"],
+  "createdAt": 2054000000000
+},
+
+{
+  "id": "bow-clip",
+  "name": "Bow Clip",
+  "price": 150,
+  "categories": ["hair-accessories", "newly-launched"],
+  "description": "This beautiful hair clip features a charming bow, perfect for adding a touch of whimsy to your hairstyle.",
+  "images": ["images/hair-accessories/Bow clip 1.jpg", "images/hair-accessories/Bow clip 2.jpg"],
+  "createdAt": 2054000000000
 },
 
 {
